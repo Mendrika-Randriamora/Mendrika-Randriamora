@@ -59,10 +59,10 @@
 
 ## � Projets
 
-| Projet | Description | Lien |
-|--------|-------------|------|
-| <img src="./c.png" width="80" alt="Projet C" /> | Gestion de stock en C : projet console | [Voir le repo](https://github.com/Mendrika-Randriamora/gestion-de-stock) |
-| <img src="./php.png" width="80" alt="Projet PHP" /> | PHP from scratch : projet sans framework | [Voir le repo](https://github.com/Mendrika-Randriamora/livre-d-or) |
+| Projet                                              | Description                            | Lien                                                                     |
+| --------------------------------------------------- | -------------------------------------- | ------------------------------------------------------------------------ |
+| <img src="./c.png" width="80" alt="Projet C" />     | Gestion de stock en C : projet console | [Voir le repo](https://github.com/Mendrika-Randriamora/gestion-de-stock) |
+| <img src="./php.png" width="80" alt="Projet PHP" /> | PHP from scratch : projet MVC avec des classes d'abstraction        | [Voir le repo](https://github.com/Mendrika-Randriamora/livre-d-or)       |
 
 <p>
   <a href="https://github.com/Mendrika-Randriamora"><b>Voir tous mes repositories GitHub</b></a>
