@@ -1,5 +1,3 @@
-
-
 <p align="center">
   <img src="./image.png" alt="Photo de profil" width="120" />
 </p>
@@ -14,11 +12,6 @@
 > N'hésitez pas à explorer mes projets et à me contacter pour échanger ou collaborer !
 
 ---
-
-
-
-
-
 
 ---
 
@@ -42,35 +35,39 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="40" />
 </p>
 
+**Base de données**
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" />
+</p>
+
 **Autres**
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sdl/sdl-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
 </p>
 
 ---
-
-
 
 ---
 
 ## � Projets
 
-| Projet                                              | Description                            | Lien                                                                     |
-| --------------------------------------------------- | -------------------------------------- | ------------------------------------------------------------------------ |
-| <img src="./c.png" width="80" alt="Projet C" />     | Gestion de stock en C : projet console | [Voir le repo](https://github.com/Mendrika-Randriamora/gestion-de-stock) |
-| <img src="./php.png" width="80" alt="Projet PHP" /> | PHP from scratch : projet MVC avec des classes d'abstraction        | [Voir le repo](https://github.com/Mendrika-Randriamora/livre-d-or)       |
+| Projet                                              | Description                                                  | Lien                                                                     |
+| --------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------------------ |
+| <img src="./c.png" width="80" alt="Projet C" />     | Gestion de stock en C : projet console                       | [Voir le repo](https://github.com/Mendrika-Randriamora/gestion-de-stock) |
+| <img src="./php.png" width="80" alt="Projet PHP" /> | PHP from scratch : projet MVC avec des classes d'abstraction | [Voir le repo](https://github.com/Mendrika-Randriamora/livre-d-or)       |
 
 <p>
   <a href="https://github.com/Mendrika-Randriamora"><b>Voir tous mes repositories GitHub</b></a>
 </p>
-
-
-
-
 
 ---
 
