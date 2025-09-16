@@ -73,6 +73,5 @@
 
 ## Contact
 
-- 📧 Email: [wanimirana@gmail.com](mailto:wanimirana@gmail.com)
+- 📧 Email: [wanimirana@gmail.com](mailto:wanimirana@gmail.com)  | [maherynyainarandriamora4@gmail.com](mailto:maherynyainarandriamora4@gmail.com)
 - 💬 WhatsApp: [+261 38 84 114 83](https://wa.me/261388411483)
-- 🔵 Facebook: [mendrika.randriamora](https://facebook.com/mendrika.randriamora)
