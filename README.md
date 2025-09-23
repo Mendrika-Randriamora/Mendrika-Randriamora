@@ -1,10 +1,6 @@
 <p align="center">
-  <img src="./image.png" alt="Profile photo" width="120" />
+  <img src="./_dev.png" alt="Profile photo" width="700" />
 </p>
-<h3 align="center">
-Hi, I'm Mendrika Randriamora. <br/>
-A developer from Madagascar
-</h3>
 
 ---
 
@@ -19,5 +15,3 @@ A developer from Madagascar
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mendrika-randriamora&show_icons=true&locale=en&layout=compact" alt="mendrika-randriamora" /></p>
 
 <!--p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mendrika-randriamora&show_icons=true&locale=en" alt="mendrika-randriamora" /></p-->
-
-
