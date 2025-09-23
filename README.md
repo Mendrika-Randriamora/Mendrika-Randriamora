@@ -3,7 +3,7 @@
 </p>
 <h3 align="center">
 Hi, I'm Mendrika Randriamora. <br/>
-A developer and designer from Madagascar
+A developer from Madagascar
 </h3>
 
 ---
