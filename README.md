@@ -12,6 +12,4 @@
 
 ---
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mendrika-randriamora&show_icons=true&locale=en&layout=compact" alt="mendrika-randriamora" /></p>
-
 <!--p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mendrika-randriamora&show_icons=true&locale=en" alt="mendrika-randriamora" /></p-->
